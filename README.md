@@ -6,3 +6,5 @@
 ![image alt](https://github.com/Sonal2005/Jewel-App/blob/1a2e504412ba274870edfe7cc426e5de1c800e42/asset1.jpg)
 
 ![image alt](https://github.com/Sonal2005/Jewel-App/blob/d421c8668ee20cbb32d43b9ec2dd93ba54a82848/asset5.jpg)
+
+![image alt](https://github.com/Sonal2005/Jewel-App/blob/3f927923d2a9118bcfbb2bd3fdc9bc989ed3c7a6/asset3.jpg)
