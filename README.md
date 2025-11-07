@@ -35,7 +35,10 @@
 ![image alt](https://github.com/Sonal2005/Jewel-App/blob/67e949274ce29b14817ace703ae18217e39e8688/asset20.jpg)
 ![image  alt](https://github.com/Sonal2005/Jewel-App/blob/8a94ce564299b8522e276d932f8c895a16d9c79a/asset15.jpg)
 
+![image alt](https://github.com/Sonal2005/Jewel-App/blob/db989d00b8170311f7199fa58e603d517c302ba5/asset22.jpg)
+
 ![image alt](https://github.com/Sonal2005/Jewel-App/blob/834871e99743d80ca6d1cda5b640ae680dfd9ed6/asset21.jpg)
+
 
 
 
