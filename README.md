@@ -1,6 +1,5 @@
 <img width="625" height="1280" alt="image" src="https://github.com/user-attachments/assets/4417c69b-c1f8-4c43-8ca0-29d4cd9ff669" />﻿# Jewel-App
 
-
 ![image alt](<img width="625" height="1280" alt="image" src="https://github.com/user-attachments/assets/4ebd5222-e871-47c1-b13d-dcd400ea07fb" />)
  
 ![image alt](https://github.com/Sonal2005/Jewel-App/blob/1a2e504412ba274870edfe7cc426e5de1c800e42/asset1.jpg)
@@ -22,3 +21,5 @@
 ![image  alt](https://github.com/Sonal2005/Jewel-App/blob/4368bc51ec1dc635ace9b94398aec38fc86a9e57/asset12.jpg)
 
 ![image  alt](https://github.com/Sonal2005/Jewel-App/blob/b7d0c896c8f632a3f9f56c7ef382666ae78e91a5/asset13.jpg)
+
+![image alt](https://github.com/Sonal2005/Jewel-App/blob/5a1bd15395176c4433f8a30b9a36e519749c9943/asset14.jpg)
