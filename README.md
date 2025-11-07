@@ -3,4 +3,5 @@
 
 ![image alt](<img width="625" height="1280" alt="image" src="https://github.com/user-attachments/assets/4ebd5222-e871-47c1-b13d-dcd400ea07fb" />)
  
+![image alt](https://github.com/Sonal2005/Jewel-App/blob/1a2e504412ba274870edfe7cc426e5de1c800e42/asset1.jpg)
 
